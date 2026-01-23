@@ -1,8 +1,5 @@
 # 🌸 Flower Classification using CNN Transfer Learning
 
-**Assignment No. 4**  
-**Submission Date:** 02/02/2026  
-
 ---
 
 ## 📌 Project Overview
