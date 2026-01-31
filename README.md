@@ -36,15 +36,6 @@ We utilize **Transfer Learning** with two pre-trained models — **VGG19** and *
   - Both models are **probabilistic**
   - Each model outputs a probability distribution over **102 flower categories**
 
----
-
-## 📁 Repository Links
-
-- **GitHub Source Code:**  
-  https://github.com/nivnaus/Ass4ML/tree/main
-
----
-
 ## 📈 Minimum Performance Requirement
 
 - **Accuracy Target:**  
