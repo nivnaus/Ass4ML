@@ -5,7 +5,7 @@
 ## 📌 Project Overview
 
 This project focuses on the application of **Convolutional Neural Networks (CNNs)** for image classification.  
-We utilize **Transfer Learning** with two pre-trained models — **VGG19** and **YOLOv5** — to classify flower images from the **Oxford 102 Flowers Dataset**.
+We utilize **Transfer Learning** with four pre-trained models — **VGG19**, **ResNet50**, **InceptionResNetV2** and **YOLOv5** — to classify flower images from the **Oxford 102 Flowers Dataset**.
 
 ---
 
